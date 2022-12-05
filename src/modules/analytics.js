@@ -1,3 +1,3 @@
-export function analytics(name: string): void {
+export function analytics(name) {
     console.log(name, ' started...')
 }
